@@ -134,7 +134,7 @@ public class Miernik extends AppCompatActivity {
 
     public  void resetChronometer(View v){
         chronometer.setBase(SystemClock.elapsedRealtime());
-        
+
 
     }
 
