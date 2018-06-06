@@ -38,12 +38,14 @@
 
     <TextView
         android:id="@+id/text_db"
-        android:layout_width="110dp"
-        android:layout_height="41dp"
+        android:layout_width="228dp"
+        android:layout_height="33dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:text="0 dB"
+        android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
